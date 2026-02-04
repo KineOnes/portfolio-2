@@ -1,9 +1,13 @@
+import ProjectsList from "./components/projects/ProjectsList";
+
 export default function App() {
   return (
-    <div className="min-h-screen bg-purple-900 text-white flex items-center justify-center">
-      <h1 className="text-4xl font-bold">
-        Tailwind is working 🚀
+    <main className="min-h-screen bg-purple-900 text-white p-8">
+      <h1 className="text-3xl font-bold mb-8">
+        My Projects
       </h1>
-    </div>
-  )
+
+      <ProjectsList />
+    </main>
+  );
 }
