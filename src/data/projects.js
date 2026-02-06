@@ -15,7 +15,7 @@ const projects = [
       image: "/projects/js-frameworks.png",
       tags: ["react", "tailwind", "api"],
       repoUrl: "https://github.com/KineOnes/noroff-ecom",
-      liveUrl: "https://sofiasselect.netlify.app/",
+      liveUrl: "https://sofiaselect.netlify.app/",
     },
     {
       id: 3,
