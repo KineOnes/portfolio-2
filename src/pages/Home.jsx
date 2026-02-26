@@ -113,13 +113,14 @@ export default function Home() {
 
           <div className="mt-4 flex flex-wrap gap-3">
           <a
-  href="https://www.behance.net/kineonesv"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="inline-flex items-center justify-center rounded-full bg-white/15 px-6 py-2 text-sm hover:bg-white/20"
->
-  BEHANCE
-</a>
+            href="https://www.behance.net/DITTBRUKERNAVN"
+            target="_blank"
+            rel="noreferrer"
+            className="mt-4 inline-flex rounded-full bg-yellow-400 px-5 py-2 text-sm font-medium text-purple-950 hover:bg-yellow-300"
+          >
+            BEHANCE
+          </a>
+
 
             
           </div>
@@ -135,9 +136,7 @@ export default function Home() {
         </div>
 
         <div className="mt-8 rounded-2xl bg-white/10 p-6 ring-1 ring-white/15">
-          <p className="text-sm text-white/80">
-            Lenke til GitHub-profil + evt. “profile README”.
-          </p>
+          
 
           <a
             className="mt-4 inline-flex rounded-full bg-yellow-400 px-5 py-2 text-sm font-medium text-purple-950 hover:bg-yellow-300"
