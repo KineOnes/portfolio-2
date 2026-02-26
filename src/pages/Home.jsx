@@ -106,27 +106,22 @@ export default function Home() {
         </div>
 
         <div className="mt-8 rounded-2xl bg-white/10 p-6 ring-1 ring-white/15">
-          <p className="font-semibold">Kontakt meg</p>
+          <p className="font-semibold">Contact me</p>
           <p className="mt-2 text-sm text-white/75">
-            Legg inn e-post + evt. LinkedIn her.
+            Contact me by sending a message on Behance
           </p>
 
           <div className="mt-4 flex flex-wrap gap-3">
-            <a
-              className="rounded-full bg-yellow-400 px-5 py-2 text-sm font-medium text-purple-950 hover:bg-yellow-300"
-              href="mailto:din@email.no"
-            >
-              Send e-post
-            </a>
+          <a
+  href="https://www.behance.net/kineonesv"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center justify-center rounded-full bg-white/15 px-6 py-2 text-sm hover:bg-white/20"
+>
+  BEHANCE
+</a>
 
-            <a
-              className="rounded-full bg-white/15 px-5 py-2 text-sm text-white hover:bg-white/20"
-              href="#"
-              target="_blank"
-              rel="noreferrer"
-            >
-              LinkedIn
-            </a>
+            
           </div>
         </div>
       </section>
