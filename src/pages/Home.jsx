@@ -113,7 +113,7 @@ export default function Home() {
 
           <div className="mt-4 flex flex-wrap gap-3">
           <a
-            href="https://www.behance.net/DITTBRUKERNAVN"
+            href="https://www.behance.net/kineonesv"
             target="_blank"
             rel="noreferrer"
             className="mt-4 inline-flex rounded-full bg-yellow-400 px-5 py-2 text-sm font-medium text-purple-950 hover:bg-yellow-300"
