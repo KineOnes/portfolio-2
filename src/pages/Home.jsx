@@ -52,9 +52,14 @@ export default function Home() {
           </div>
 
           {/* Avatar / illustration */}
-          <div className="mx-auto flex h-56 w-56 items-center justify-center rounded-full bg-white/10 ring-1 ring-white/20 md:h-72 md:w-72">
-            <div className="h-44 w-44 rounded-full bg-white/10 md:h-56 md:w-56" />
-          </div>
+<div className="mx-auto h-56 w-56 overflow-hidden rounded-full bg-white/10 ring-1 ring-white/20 md:h-72 md:w-72">
+  <img
+    src="/profileImage.avif"
+    alt="Profile illustration"
+    className="h-full w-full object-cover"
+  />
+</div>
+
 
           {/* About me */}
           <div id="about" className="space-y-4 md:text-right">
