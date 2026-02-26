@@ -39,8 +39,9 @@ export default function Home() {
           <div className="space-y-4">
             <p className="text-xs tracking-widest text-white/70">WELCOME</p>
             <p className="text-sm leading-relaxed text-white/80">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            Hi, I'm Kine — a creative front-end developer with a background in art and design. 
+            I enjoy building clean, intuitive web experiences that combine structure with Scandinavian simplicity.
+
             </p>
 
             <a
@@ -65,7 +66,12 @@ export default function Home() {
           <div id="about" className="space-y-4 md:text-right">
             <p className="text-xs tracking-widest text-white/70">ABOUT ME</p>
             <p className="text-sm leading-relaxed text-white/80">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Currently studying Front-End Development at Noroff, I’m passionate about turning ideas into responsive and user-friendly digital solutions.
+
+            With a background in Art History, Graphic Design, and Illustration, I bring a strong visual perspective into my development work. I love working with React, modern JavaScript, and clean UI systems.
+
+            When I’m not coding, you’ll probably find me drinking coffee, exploring nature, or learning something new.
+
             </p>
 
             <a
